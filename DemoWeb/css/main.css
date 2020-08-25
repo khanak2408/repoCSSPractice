@@ -1,0 +1,20 @@
+section{
+    background:#ff1b68;
+}
+
+.section-plans{
+    background-color: brown;
+    font-family: 'anton';
+}
+
+#demo-slogan{
+    background-color: chartreuse;
+}
+
+[disabled]{
+    background-color: chocolate;
+}
+
+h1{
+    color:green;
+}
